@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dachu/Desktop/111/app/src/main/res/layout/activity_main.xml" value="0.2630208333333333" />
+        <entry key="..\:/Users/dachu/Desktop/111/app/src/main/res/layout/fragment_details.xml" value="0.2947916666666667" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi/app/src/main/res/layout/activity_main.xml" value="0.33541666666666664" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi/app/src/main/res/layout/fragment_content.xml" value="0.5072916666666667" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi/app/src/main/res/layout/fragment_details.xml" value="0.5072916666666667" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi/app/src/main/res/layout/fragment_list.xml" value="0.5072916666666667" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi/app/src/main/res/layout/fragment_person_details.xml" value="0.40572916666666664" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi/app/src/main/res/layout/fragment_tv_list.xml" value="0.33541666666666664" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi/app/src/main/res/layout/item_character.xml" value="0.4203125" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi/app/src/main/res/layout/item_tv.xml" value="0.33541666666666664" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod2/app/src/main/res/layout/fragment_content.xml" value="0.32916666666666666" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod2/app/src/main/res/layout/fragment_tv_list.xml" value="0.32916666666666666" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod2/app/src/main/res/layout/item_character.xml" value="0.32083333333333336" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod2/app/src/main/res/layout/item_tv.xml" value="0.32916666666666666" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod2/app/src/main/res/menu/menu_list.xml" value="0.1" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod3/app/src/main/res/layout/fragment_tv_list.xml" value="0.3453703703703704" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod5/app/src/main/res/layout/fragment_list.xml" value="0.346875" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod5/app/src/main/res/layout/fragment_tv_list.xml" value="0.5427083333333333" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod5doingswipe/app/src/main/res/layout/fragment_list.xml" value="0.5427083333333333" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod5doingswipe/app/src/main/res/layout/item_loading.xml" value="0.5427083333333333" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod6/app/src/main/res/layout/activity_main.xml" value="0.3203125" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod6/app/src/main/res/layout/fragment_content.xml" value="0.19814814814814816" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod6/app/src/main/res/layout/fragment_details.xml" value="0.3203125" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod6/app/src/main/res/layout/fragment_list.xml" value="0.3203125" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod6/app/src/main/res/layout/fragment_person_details.xml" value="0.3203125" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod6/app/src/main/res/layout/fragment_person_tvshow_list.xml" value="0.29791666666666666" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod6/app/src/main/res/layout/fragment_tv_list.xml" value="0.3203125" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod6/app/src/main/res/layout/item_person.xml" value="0.3203125" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod6/app/src/main/res/layout/item_person_tv_show.xml" value="0.3921875" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod6/app/src/main/res/layout/item_person_tvshow.xml" value="0.29791666666666666" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod6/app/src/main/res/layout/item_tv.xml" value="0.3203125" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod6/app/src/main/res/menu/menu_list.xml" value="0.3203125" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod7/app/src/main/res/layout/activity_main.xml" value="0.296875" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod7/app/src/main/res/layout/fragment_content.xml" value="0.296875" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod7/app/src/main/res/layout/fragment_details.xml" value="0.296875" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod7/app/src/main/res/layout/fragment_list.xml" value="0.296875" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod7/app/src/main/res/layout/fragment_person_details.xml" value="0.296875" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod7/app/src/main/res/layout/fragment_person_tvshow_list.xml" value="0.296875" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod7/app/src/main/res/layout/fragment_persons_list.xml" value="0.296875" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod7/app/src/main/res/layout/item_character.xml" value="0.296875" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod7/app/src/main/res/layout/item_loading.xml" value="0.296875" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod7/app/src/main/res/layout/item_person.xml" value="0.296875" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod7/app/src/main/res/layout/item_person_tv_show.xml" value="0.296875" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod8/app/src/main/res/layout/fragment_content.xml" value="0.4171875" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod8/app/src/main/res/layout/fragment_details.xml" value="0.296875" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod8/app/src/main/res/layout/fragment_person_tvshow_list.xml" value="0.4171875" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod8/app/src/main/res/layout/fragment_persons_list.xml" value="0.36444444444444446" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod8/app/src/main/res/layout/item_loading.xml" value="0.18055555555555555" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod8/app/src/main/res/layout/item_person.xml" value="0.4171875" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod8/app/src/main/res/layout/item_person_tv_show.xml" value="0.4171875" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod9/app/src/main/res/layout/fragment_person_tvshow_list.xml" value="0.33958333333333335" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod9/app/src/main/res/layout/fragment_persons_list.xml" value="0.33958333333333335" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod9/app/src/main/res/layout/item_person.xml" value="0.39166666666666666" />
+        <entry key="..\:/workStudy/KotlinDevelopment/DZ/MVVMTask6_otherApi_mod9/app/src/main/res/layout/item_person_tv_show.xml" value="0.33958333333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
