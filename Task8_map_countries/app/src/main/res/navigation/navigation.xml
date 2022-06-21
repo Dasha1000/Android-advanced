@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/content">
+
+    <fragment
+        android:id="@+id/content"
+        android:name="dev.software.apicorutineroom.fragment.ContentFragment"
+        tools:layout="@layout/fragment_content">
+
+        <action
+            android:id="@+id/to_search_country"
+            app:destination = "@id/search_country">
+        </action>
+
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/search_country"
+        android:name="dev.software.apicorutineroom.fragment.SearchCountryFragment"
+        tools:layout="@layout/fragment_search_country">
+
+        <action
+            android:id="@+id/to_map"
+            app:destination = "@id/map">
+        </action>
+
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/map"
+        android:name="dev.software.apicorutineroom.fragment.CountryMapFragment"
+        tools:layout="@layout/fragment_country_map">
+
+        <argument
+            android:name="country_name"
+            app:argType="string"/>
+
+    </fragment>
+
+</navigation>
