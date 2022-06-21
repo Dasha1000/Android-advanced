@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/content">
+
+    <fragment
+        android:id="@+id/content"
+        android:name="dev.software.apicorutineroom.fragment.ContentFragment"
+        tools:layout="@layout/fragment_content">
+
+<!--        <action
+            android:id="@+id/to_items_one"
+            app:destination = "@id/list">
+        </action>-->
+
+        <action
+            android:id="@+id/to_items_two"
+            app:destination = "@id/persons_list">
+        </action>
+
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/persons_list"
+        android:name="dev.software.apicorutineroom.fragment.TVPersonsListFragment"
+        tools:layout="@layout/fragment_persons_list">
+
+        <action
+            android:id="@+id/to_details_person"
+            app:destination = "@id/details_person">
+        </action>
+    </fragment>
+
+    <fragment
+        android:id="@+id/details_person"
+        android:name="dev.software.apicorutineroom.fragment.DetailsPersonFragment"
+        tools:layout="@layout/fragment_person_details">
+
+        <argument
+            android:name="id"
+            app:argType="long"/>
+
+        <action
+            android:id="@+id/to_person_tv_show"
+            app:destination = "@id/details_person_tv_show">
+        </action>
+    </fragment>
+
+    <fragment
+        android:id="@+id/details_person_tv_show"
+        android:name="dev.software.apicorutineroom.fragment.PersonsTVShowListFragment"
+        tools:layout="@layout/fragment_person_tvshow_list">
+
+        <argument
+            android:name="list"
+            app:argType="string[]"/>
+
+    </fragment>
+
+</navigation>

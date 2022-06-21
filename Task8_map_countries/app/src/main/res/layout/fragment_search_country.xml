@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/fragment_detail"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/teal_background"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        style="@style/Widget.MaterialComponents.Toolbar.Primary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/teal_toolbar"
+        app:navigationIcon="?attr/homeAsUpIndicator"
+        android:layout_marginBottom="24px"
+        app:title="Add country" />
+
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:id="@+id/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="36px"
+        android:layout_marginEnd="36px"
+        android:layout_marginBottom="24px"
+        android:hint="Enter country name"
+        android:textColorHint="@color/teal_toolbar"
+        android:textColor="@color/white"/>
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button_add_country"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="32px"
+        android:background="@color/teal_toolbar"
+        android:gravity="center_vertical|center_horizontal"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:padding="12dp"
+        android:textSize="20sp"
+        android:text="Add the country you want to visit" />
+
+
+</LinearLayout>
